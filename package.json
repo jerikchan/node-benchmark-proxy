@@ -1,0 +1,16 @@
+{
+  "name": "@fk/node-benchmark-proxy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "faier",
+  "license": "MIT",
+  "dependencies": {
+    "@jsnetkit/buffer": "^1.1.3",
+    "@jsnetkit/rpc": "^1.1.5"
+  }
+}
